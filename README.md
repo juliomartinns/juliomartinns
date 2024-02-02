@@ -2,8 +2,7 @@
 ## Olá! Eu sou o Julio Cesar 👋
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=juliomartinns&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliomartinns&layout=compact&show_icons=true&theme=midnight-purple)
+
 
 <!-- Icons -->
 <div style="flex-basis: 48%;">
